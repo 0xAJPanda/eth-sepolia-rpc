@@ -1,4 +1,4 @@
-# geth-prysm-node
+# ETH SEPOLIA RPC
 Step by step guide for setting up a `docker-compose.yml` for running a `Sepolia` Ethereum full node using **Geth** as the `execution client` and **Prysm** as the `consensus client` on an Ubuntu-based system.
 
 ## Hardware Requirements
